@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Kaju: AI Streaming Agent</title>
+        <title>EVEO: Onchain marketing</title>
         <meta content="Your personal AI streaming agent" name="description" />
         <link href="/favicon.ico" rel="icon" />
       </Head>
